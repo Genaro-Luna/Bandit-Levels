@@ -1,0 +1,14 @@
+Level 0: En este nivel nos piden conectarnos a su "laboratorio" donde vamos a estar haciendo las practicas, para ellos nos proporcionan los siguientes links
+-> https://es.wikipedia.org/wiki/Secure_Shell
+-> https://itsfoss.com/ssh-to-port/
+-> https://www.wikihow.com/Use-SSH
+
+En el 2do link podemos ver como podemos realizar la coneccion ssh utilizando:
+- ssh -p numero_puerto user@IP
+
+Reemplazando el numero de puerto, nombre de user y colocando la IP (que puede ser el mismo dominio del laboratio), podemos hacer la coneccion exitosamente, solo nos pedira confirmar y la contraseña del usuario.
+
+Estos datos son proporcionados por la misma pagina y son:
+- Puerto: 2220
+- user: bandit0
+- IP: bandit.labs.overthewire.org
