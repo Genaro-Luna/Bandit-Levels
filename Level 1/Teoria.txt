@@ -1,0 +1,1 @@
+En este nivel piden que averigues una contraseña en un archivo readme que puede observarse al tuilizar el comando ls, te dan varios comandos mas pero utilizando cat readme se puede observar la contraseña
